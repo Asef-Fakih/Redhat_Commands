@@ -2,6 +2,7 @@
 ## File Commands
 > ls - The most frequently used command in Linux to list directories  
 > ls -a shows hidden files in addition to the visible ones.
+> 
 > pwd - Print working directory command in Linux  
 > cd - Linux command to navigate through directories  
 > mkdir - Command used to create directories in Linux  
