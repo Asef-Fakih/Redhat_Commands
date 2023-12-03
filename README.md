@@ -1,11 +1,11 @@
 # Linux Command Cheat Sheet
 ## File Commands
-> **ls** - The most frequently used command in Linux to list directories  
-> **ls -a** shows hidden files in addition to the visible ones.  
-> **pwd** - Print working directory command in Linux  
->** cd** - Linux command to navigate through directories  
-> **mkdir** - Command used to create directories in Linux  
-> **mkdir -p**  mkdir -p Music/2020/Songs will make the new “2020” directory.  
+> -**ls** - The most frequently used command in Linux to list directories  
+> -**ls -a** shows hidden files in addition to the visible ones.  
+> -**pwd** - Print working directory command in Linux  
+>-** cd** - Linux command to navigate through directories  
+> -**mkdir** - Command used to create directories in Linux  
+> -**mkdir -p**  mkdir -p Music/2020/Songs will make the new “2020” directory.  
 > **mkdir sa{1..50}** will create directories from sa 1 to 50  
 > **rm**  lets you delete a file or directory passing its name  
 > **rm** -d lets you delete a directory passing its name  
